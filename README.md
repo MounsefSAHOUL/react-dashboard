@@ -57,9 +57,7 @@
 <img src="screenshots/faq_page.png" alt="FAQ Page">
 <img src="screenshots/charts.png" alt="Charts"></p>
 <h2>Credits</h2>
-<p>This project is created by [Your Name] and is based on the tutorial available at [Tutorial Link].</p>
-<h2>License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE" target="_blank">LICENSE</a> file for details.# React Admin Dashboard Tutorial</p>
+<p>This project is created by Mounsef SAHOUL and is based on the tutorial available at <a href="https://www.youtube.com/watch?v=wYpCWwD1oz0&t=9291s">[Tutorial Link]</a>.</p>
 <h2>Overview</h2>
 <p>This repository contains the source code for building a complete React Admin Dashboard application from scratch. The tutorial covers various features and components using industry-standard packages, providing both beginners and experienced developers with valuable insights.</p>
 <h2>Table of Contents</h2>
